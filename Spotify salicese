@@ -113,7 +113,7 @@ printf("\n\t\t\t\t\t\t\t\t\t  |              1. LOGIN                 |");
 printf("\n\t\t\t\t\t\t\t\t\t  |_______________________________________|");
 printf("\n\n\t\t\t\t\t\t\t\t\t   _______________________________________");
 printf("\n\t\t\t\t\t\t\t\t\t  |                                       |");
-printf("\n\t\t\t\t\t\t\t\t\t  |              2. REGISTER              |");
+printf("\n\t\t\t\t\t\t\t\t\t  |              2. SIGN UP	              |");
 printf("\n\t\t\t\t\t\t\t\t\t  |_______________________________________|");
 printf("\n\n\t\t\t\t\t\t\t\t\t   _______________________________________");
 printf("\n\t\t\t\t\t\t\t\t\t  |                                       |");
